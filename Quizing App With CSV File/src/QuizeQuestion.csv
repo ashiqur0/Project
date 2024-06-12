@@ -1,0 +1,28 @@
+Java owned by_,IBM,Microsoft,Oracle,Google
+First name of Java was_,Java,Green,Tree,Oak
+Java developed by,Blue Team,Black Team,Green Team,Read Team
+Who is considered to the Father of Java ?,Javmes Gosling,Dennis Ritchie,Bjarne Stroustrup,Guido van Rossum
+What is the correct syntax to output "Hello World" in Java?,print("Hello World");,Console.WriteLine("Hello World");,echo("Hello World");,System.out.println("Hello World");
+How do you insert comment in Java?,// This is a comment,/* This is a comment,# This is a comment,<--This  is a comment-->
+Java is short for JavaScript,TRUE,FALSE,both,none of the above
+Which data type is used to create a variable that should store text?,myString,string,Txt,String
+How do you create a variable with the numaric value 5?,float x = 5;,int x= 5;,num x = 5;,x = 5;
+How do you create a variable with the floating number 2.8?,float x = 2.8f;,int x = 2.8f;,x = 2.8f;,byte x = 2.8f;
+Which method can be used to find the length of a string ?,getSize(),getLength(),length(),len()
+Which operator is used to add together two values ?,The * sign,The & sign,@,The + sign
+The value of a string variable can be surrounded by single quotes,TRUE,FALSE,both,none of the above
+Which method can be used to return a string in upper case letters?,toUpperCase(),upperCase(),touppercase(),tuc()
+Which operator can be used to compare two values?,<>,==,><,=
+To declare an array in Java: define the variable type with,{},(),[],<>
+Array index start with,0,1,both,none of the above
+How do you create a method in Java?,methodName(),methodName.,methodName[],(methodName)
+How do you call a method in java?,methodName.,methodName[],methodName(),(methodName)
+Which keyword is used to create a class in Java?,MyClass,class,className,class()
+What is the correct way to create an opject called myObj of MyClass?,class myObj = new myObj();,class MyClass = new myObj();,new myObj = MyClass();,MyClass myObj= new MyClass();
+In Java it is possible to inherit attributes and methods from one class to another.,TRUE,FALSE,both,none of the above
+Which operator is used to multiply numbers?,%,*,x,#
+Which keyword is used to import a package from the Java API library?,import,lib,getlib,package
+How do you start writing an if statement in Java?,if x>y then:,if(x>y),if x>y:,when
+How do you start writing a while loop in Java?,while(x>y),while x>y:,while x>y {,x>y while {
+Which keyword is used to return a value inside a method?,get,break,void,return,continue
+Which statement is used to stop a loop?,exit,break,stop,return
